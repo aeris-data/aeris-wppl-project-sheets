@@ -4,7 +4,7 @@
 * Plugin URI : https://github.com/aeris-data/aeris-wppl-project-sheets
 * Description: Plugin pour gérer les fiches projets AERIS
 * Author: Pierre VERT
-* Version: 0.1.0
+* Version: 1.0.0
 * GitHub Plugin URI: aeris-data/aeris-wppl-project-sheets
 * GitHub Branch:     master
 */
@@ -35,14 +35,13 @@ function aeris_wppl_project_sheets_plugin_init(){
                 'public' => true, 				
                 'show_in_rest' => true,         
                 'capability_type' => 'post',
+                // rewrite URL 
                 'rewrite' => array( 'slug' => 'projects' ),
                 'supports' => array(			
                     'title',
-                    // 'author',
-                    //'editor'	
                 ),
                 'has_archive' => true, 
-                // Url vers une icone ou à choisir parmi celles de WP : https://developer.wordpress.org/resource/dashicons/.
+                // Url vers une icone ou identifiant à choisir parmi celles de WP : https://developer.wordpress.org/resource/dashicons/.
                 'menu_icon'   => 'dashicons-media-document'
             ) 
         );
