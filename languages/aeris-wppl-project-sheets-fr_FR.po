@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aeris Project Sheets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-04 16:26+0000\n"
+"PO-Revision-Date: 2018-05-04 16:37+0000\n"
+"Last-Translator: poleweb <pvert@mel2.obs-mip.fr>\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: aeris-wppl-project-sheets.php:27
+msgid "Add new project"
+msgstr "Ajouter une fiche projet"
+
+#. Name of the plugin
+msgid "Aeris Project Sheets"
+msgstr "Fiches projets Aeris"
+
+#: aeris-wppl-project-sheets.php:26
+msgid "All projects"
+msgstr "Toutes les fiches projet"
+
+#: aeris-wppl-project-sheets.php:28
+msgid "Edit project"
+msgstr "Editer la fiche projet"
+
+#: aeris-wppl-project-sheets.php:29
+msgid "New project"
+msgstr "Nouveau fiche projet"
+
+#: aeris-wppl-project-sheets.php:32
+msgid "No project found"
+msgstr "Pas de fiche projet trouvée"
+
+#: aeris-wppl-project-sheets.php:33
+msgid "No project found in trash"
+msgstr "Pas de fiche projet dans la corbeille"
+
+#. Author of the plugin
+msgid "Pierre VERT"
+msgstr "Pierre VERT"
+
+#. Description of the plugin
+msgid "Manage AERIS projects sheets"
+msgstr "Plugin pour gérer les fiches projets AERIS"
+
+#: aeris-wppl-project-sheets.php:39
+msgid "project"
+msgstr "Projet"
+
+#: aeris-wppl-project-sheets.php:22
+msgid "Project sheet"
+msgstr "Fiche projet"
+
+#: aeris-wppl-project-sheets.php:25
+msgid "project sheet"
+msgstr "fiche projet"
+
+#: aeris-wppl-project-sheets.php:24
+msgid "Projects sheets"
+msgstr "Fiches projets"
+
+#: aeris-wppl-project-sheets.php:31
+msgid "Search project"
+msgstr "Rechercher une fiche projet"
+
+#: aeris-wppl-project-sheets.php:30
+msgid "View project"
+msgstr "Voir la fiche projet"
