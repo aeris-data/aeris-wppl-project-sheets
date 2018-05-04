@@ -1,0 +1,75 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Aeris Project Sheets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-04 16:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: aeris-wppl-project-sheets.php:27
+msgid "Add new project"
+msgstr ""
+
+#. Name of the plugin
+msgid "Aeris Project Sheets"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:26
+msgid "All projects"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:28
+msgid "Edit project"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:29
+msgid "New project"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:32
+msgid "No project found"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:33
+msgid "No project found in trash"
+msgstr ""
+
+#. Author of the plugin
+msgid "Pierre VERT"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin pour gérer les fiches projets AERIS"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:39
+msgid "project"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:22
+msgid "Project sheet"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:25
+msgid "project sheet"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:24
+msgid "Projects sheets"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:31
+msgid "Search project"
+msgstr ""
+
+#: aeris-wppl-project-sheets.php:30
+msgid "View project"
+msgstr ""
