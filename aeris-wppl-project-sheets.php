@@ -6,7 +6,7 @@
 * Domain Path: /languages
 * Description: Manage AERIS projects sheets
 * Author: Pierre VERT
-* Version: 1.1.1
+* Version: 1.1.2
 * GitHub Plugin URI: aeris-data/aeris-wppl-project-sheets
 * GitHub Branch:     master
 */
@@ -36,7 +36,7 @@ function aeris_wppl_project_sheets_cpt() {
             'show_in_rest' => true,         
             'capability_type' => 'post',
             // rewrite URL 
-            'rewrite' => array( 'slug' => __('project', 'aeris-wppl-project-sheets')),
+            'rewrite' => array( 'slug' => 'project'),
             'supports' => array(			
                 'title',
             ),
