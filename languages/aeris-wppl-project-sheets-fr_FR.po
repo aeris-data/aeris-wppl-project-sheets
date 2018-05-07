@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Aeris Project Sheets\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-04 16:26+0000\n"
-"PO-Revision-Date: 2018-05-04 16:37+0000\n"
+"PO-Revision-Date: 2018-05-07 08:29+0000\n"
 "Last-Translator: poleweb <pvert@mel2.obs-mip.fr>\n"
 "Language-Team: Français\n"
 "Language: fr_FR\n"
@@ -19,7 +19,7 @@ msgstr "Ajouter une fiche projet"
 
 #. Name of the plugin
 msgid "Aeris Project Sheets"
-msgstr "Fiches projets Aeris"
+msgstr "Aeris Fiches projets"
 
 #: aeris-wppl-project-sheets.php:26
 msgid "All projects"
