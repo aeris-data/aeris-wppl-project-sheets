@@ -36,8 +36,7 @@ while ( have_posts() ) : the_post();
 			<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
             	<section class="wrapper-content">
 					<!-- call webcomponent vueJs -->
-					<script type="text/javascript" component="aeris-data/aeris-commons-components-vjs@latest" src="https://rawgit.com/aeris-data/aeris-component-loader/master/aerisComponentLoader.js" ></script>
-                    <script type="text/javascript" component="aeris-data/aeris-metadata-components-vjs@latest" src="https://rawgit.com/aeris-data/aeris-component-loader/master/aerisComponentLoader.js" ></script>
+					<script type="text/javascript" src="https://rawcdn.githack.com/aeris-data/aeris-metadata-components-vjs/633575e8007b32542691d5b2ce6cd26950958118/dist/aeris-metadata-components-vjs_0.9.4.js" ></script>
 
 					<aeris-metadata-synthesis identifier="<?php echo $post_slug; ?>" lang="<?php echo $lang;?>"/>
 
